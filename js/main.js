@@ -1,0 +1,1 @@
+const textRedactor = new TextRedactor('#redactor');
